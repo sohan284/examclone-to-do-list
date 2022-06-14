@@ -98,10 +98,9 @@ const Home = () => {
             </div>
             <div className='mt-[58px] ml-[84px]'>
                 <h1 className='text-center font-bold'>Status</h1>
-                <h2 className='py-2'>Total Tasks: </h2>
-                <h2 className='py-2'>Completed Tasks: </h2>
-                <h2 className='py-2'>Pending Tasks: </h2>
-
+                <h2 className='py-2'>Total Tasks:  <span className='font-bold text-[red] ml-[120px]'>12</span></h2>
+                <h2 className='py-2'>Completed Tasks: <span className='font-bold text-[red] ml-[85px]'>5</span> </h2>
+                <h2 className='py-2'>Pending Tasks:<span className='font-bold text-[red] ml-[110px]'>7</span> </h2>
             </div>
         </div>
     );

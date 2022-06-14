@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.033" height="19.033" viewBox="0 0 19.033 19.033">
+  <g id="Add_logo" data-name="Add logo" transform="translate(-1295.517 -141)">
+    <g id="plus-circle" transform="translate(1295.517 141)">
+      <path id="Path_1" data-name="Path 1" d="M13.228,7.875a.6.6,0,0,1,.595.595v4.758a.6.6,0,0,1-.595.595H8.47a.595.595,0,1,1,0-1.19h4.163V8.47A.6.6,0,0,1,13.228,7.875Z" transform="translate(-3.712 -3.712)" fill="#1f4068" fill-rule="evenodd"/>
+      <path id="Path_2" data-name="Path 2" d="M16.875,17.47a.6.6,0,0,1,.595-.595h4.758a.595.595,0,1,1,0,1.19H18.065v4.163a.595.595,0,0,1-1.19,0Z" transform="translate(-7.953 -7.953)" fill="#1f4068" fill-rule="evenodd"/>
+      <path id="Path_3" data-name="Path 3" d="M9.516,17.843A8.327,8.327,0,1,0,1.19,9.516,8.327,8.327,0,0,0,9.516,17.843Zm0,1.19A9.516,9.516,0,1,0,0,9.516,9.516,9.516,0,0,0,9.516,19.033Z" fill="#1f4068" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
